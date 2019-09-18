@@ -12,7 +12,7 @@ A blank template ready for your favorite tools.
 
 ## Dependencies
 - [webpack + babel + loaders](https://webpack.js.org/) a static module bundler for modern JavaScript applications.
-- [koji-tools](https://www.npmjs.com/package/koji-tools) a library for making vcc integration easy.
+- [koji-vcc](https://www.npmjs.com/package/@withkoji/vcc) a library for making vcc integration easy.
 
 ## Support
 ### Community
